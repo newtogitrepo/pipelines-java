@@ -1,5 +1,6 @@
 
 # Contributing
+https://dev.azure.com/nanda4ru/sam3/_apis/build/status/sam3-Maven-CI?branchName=master
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
